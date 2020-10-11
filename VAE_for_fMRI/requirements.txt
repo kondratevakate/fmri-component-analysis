@@ -1,0 +1,7 @@
+nibabel
+nilearn
+xlrd
+natsort
+torch
+torchvision
+pytorch-lightning
